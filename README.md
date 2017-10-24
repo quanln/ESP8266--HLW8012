@@ -1,6 +1,6 @@
 # ESP-pow
 
-First, i'm sorrry for my bad english. this repository help to monitor voltage, current and power using ESP8285 and chip HLW8012 with ``Arduino IDE`` and ``Blynk app``
+First, i'm sorrry because my english skill is bad. This repository help to monitor voltage, current and active power using ESP8285 and chip HLW8012 with ``Arduino IDE`` and ``Blynk app``
 
 - Use ESP8285 and chip HLW8012 link (https://iotmaker.vn/esp-pow-thiet-bi-do-dien.html)
 - monitor on Blynk app 
